@@ -1,0 +1,12 @@
+apache-airflow[google, celery]
+tzdata==2021.5
+tzlocal==4.1
+clickhouse-driver==0.2.3
+atlassian-python-api
+airflow-provider-great-expectations==0.2.6
+great-expectations==0.16.10
+apache-airflow-providers-tableau==3.0.1
+dbt-core==1.7.2
+dbt-bigquery==1.7.2
+astronomer-cosmos==1.2.5
+airflow-dbt==0.4.0
